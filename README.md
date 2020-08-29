@@ -4,6 +4,10 @@ This class can be used to analyze the length of the intervals between two succes
 
 The class generates a boxplot over the recorded data. 
 
+## Requirements
+
+1. A Python interpreter (recommended version 3 or higher)
+
 ## Dependencies
 
 To run this program, you need to install the following Python libraries:
