@@ -20,12 +20,12 @@
 # OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 # SOFTWARE.
 
-import sys
 import csv
 import argparse
 from datetime import datetime
 import matplotlib.pyplot as plt
 from tikzplotlib import save as tikz_save
+
 
 class IntervalChecker:
     def __init__(self):
