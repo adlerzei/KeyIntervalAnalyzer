@@ -8,7 +8,6 @@ The class generates a boxplot over the recorded data.
 
 To run this program, you need to install the following Python libraries:
 
-  * [argparse](https://pypi.org/project/argparse/)
   * [matplotlib](https://pypi.org/project/matplotlib/)
   * [tikzplotlib](https://pypi.org/project/tikzplotlib/)
   
