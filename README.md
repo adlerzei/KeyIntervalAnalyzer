@@ -19,7 +19,7 @@ To run this program, you need to install the following Python libraries:
 
 These packages can be installed by using your favorite packet manager. For instance, if you use [pip](https://pip.pypa.io/en/stable/), just run the following command:
 
-```
+```bash
 pip install argparse matplotlib tikzplotlib
 ```
 
@@ -33,7 +33,7 @@ The class reads a text file, that contains all recorded latencies between two su
  
 To run a script that executes the respective methods of the class, just execute the following command in a terminal:
 
-```
+```bash
 sudo python interval_checker.py
 ```
 
